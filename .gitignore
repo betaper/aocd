@@ -130,3 +130,6 @@ dmypy.json
 
 # Advent of code
 input.txt
+
+# VSCode
+.vscode/settings.json
