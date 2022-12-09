@@ -13,6 +13,16 @@
             "console": "integratedTerminal",
             "cwd": "${fileDirname}",
             "justMyCode": true
+        },
+        {
+            "name": "Debug day 9",
+            "type": "python",
+            "request": "launch",
+            "program": "${file}",
+            "args": ["example2.txt", "10", "--show"],
+            "console": "integratedTerminal",
+            "cwd": "${fileDirname}",
+            "justMyCode": true
         }
     ]
 }
